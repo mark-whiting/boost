@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+# boost bootstrap stuff (x86, may not be complete for x64)
+b2.exe
+bjam.exe
+bootstrap.log
+project-config.jam
+tools/build/v2/engine/bin.ntx86/*
+tools/build/v2/engine/bootstrap/*
+
